@@ -1,0 +1,9 @@
+name: PrzxRulesUI
+api: 4.0.0
+main: PrzxDev\Main
+author: JustPrz
+version: 1.0
+
+commands:
+  rules:
+    description: "RulesUI By PrzxDev"
